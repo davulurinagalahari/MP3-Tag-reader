@@ -40,6 +40,8 @@ Debugging file-related issues
 Real-world application of embedded C concepts
 
 3️⃣ Available Operations
+
 View MP3 metadata
+
 Edit tag information
 
